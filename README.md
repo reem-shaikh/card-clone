@@ -11,9 +11,9 @@ git pull
 git push -u origin master 
 ```
 
-### Deployment
+### Deploying a React App 
 
 - Deployment to heroku app: https://github.com/reem-shaikh/heroku-app
 - Deployment to Git pages: https://github.com/reem-shaikh/react-pages
-
+- Deployment to Firebase: https://github.com/reem-shaikh/firebase-app
 
